@@ -20,8 +20,4 @@ public class NewMonoBehaviourScript : MonoBehaviour
         //Escribir en la consola el estudiante con el index #2
         Debug.Log(ListaEstudiantes.estudiantes[2]);
     }
-    public int Suma(int a, int b)
-    {
-        return a + b;
-    }
 }
