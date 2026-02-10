@@ -1,4 +1,5 @@
 public class Clases : MonoBehaviour
 {
-    public string[] id = new string["Rober", "Maria", "Juan", "Santiago", "Pepe"];
+    public string[] estudiantes = new string["Rober", "Maria", "Juan", "Santiago", "Pepe"];
+
 }
